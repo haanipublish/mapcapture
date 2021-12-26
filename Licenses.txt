@@ -1,0 +1,10 @@
+copyright 2021 rhaos All rights reserved.
+This application is builded for test, so not stable.
+All responsibility of all problems occured by using this is yours.
+
+Licenses of libraries:
+PySide6 - LGPLv3
+Pillow - HPND
+win32com - PSF
+cv2 - MIT
+numpy - 3-clause BSD
